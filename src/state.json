@@ -1,0 +1,3 @@
+{
+  "payload": "[{\"type\":\"MATH\",\"payload\":1},{\"type\":\"MATH\",\"payload\":-1},{\"type\":\"MULTIPLICATION\",\"payload\":10},{\"type\":\"MATH\",\"payload\":1},{\"type\":\"MULTIPLICATION\",\"payload\":10},{\"type\":\"DIVISION\",\"payload\":10},{\"type\":\"RESET\",\"payload\":0},{\"type\":\"MATH\",\"payload\":1},{\"type\":\"MATH\",\"payload\":1},{\"type\":\"MULTIPLICATION\",\"payload\":10},{\"type\":\"DIVISION\",\"payload\":10},{\"type\":\"MATH\",\"payload\":-1},{\"type\":\"RESET\",\"payload\":0}]"
+}
